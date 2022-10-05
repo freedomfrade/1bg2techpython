@@ -22,16 +22,38 @@
 # b = int(input())
 # print((a - b) ** 3)
 
-# Zad 5
+
+#Zad 5
 
 # a = int(input())
 # b = int(input())
-# c = int(input())
 
-# print(a ** b ** c)
+# print(2 * (a + b) / 5)
 
-# Zad 5
+# #Zad 6
 
-a, b, c = map(int(input().split())
+# a = int(input())
+# b = int(input())
 
-print (a * b * c)
+# print(2 * (a + b) / 5)
+# print((a + b) * 0.4)
+
+# #Zad 7
+
+# brutto = int(input())
+
+# print(brutto/1.23)
+
+#Zad 8
+
+# a = int(input())
+# b = int(input())
+
+# print(a%b)
+
+
+
+
+
+
+
